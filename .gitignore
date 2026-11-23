@@ -10,3 +10,8 @@
 # OS junk
 .DS_Store
 Thumbs.db
+# Simulator (CMake) build output
+build/
+out/
+.vs/
+CMakeSettings.json
